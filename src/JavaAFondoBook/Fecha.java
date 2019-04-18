@@ -1,4 +1,4 @@
-package JavaAFondo;
+package JavaAFondoBook;
 
 public class Fecha {
     private int dia;

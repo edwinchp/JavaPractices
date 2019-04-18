@@ -1,4 +1,4 @@
-package JavaAFondo;
+package JavaAFondoBook;
 
 public class TestFecha {
     public static void main(String[] args){
