@@ -1,4 +1,4 @@
-package exam_guide.access_modifiers;
+package exam_guide;
 
 //This class can only be used by other classes which are in the same package
 class DefaultClass {

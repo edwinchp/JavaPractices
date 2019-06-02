@@ -1,9 +1,9 @@
-package exam_guide.access_modifiers;
+package exam_guide;
 
 //Not necessary to import the default class
 
-import exam_guide.access_modifiers.main_access_modifiers.AbstractClass;
-import exam_guide.access_modifiers.main_access_modifiers.FinalClass;
+import exam_guide.a1_main_access_modifiers.AbstractClass;
+import exam_guide.a1_main_access_modifiers.FinalClass;
 
 class DefaultDemo {
     public static void main(String[] args) {
