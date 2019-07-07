@@ -23,7 +23,7 @@ class DefaultDemo {
         //System.out.println(pubVar); //variable from FinalClass
 
 
-        AbstractClass abstClass = new AbstractClass() {
-        }
+        /*AbstractClass abstClass = new AbstractClass() {
+        }*/
     }
 }

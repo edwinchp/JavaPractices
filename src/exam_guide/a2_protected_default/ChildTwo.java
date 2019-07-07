@@ -10,4 +10,7 @@ public class ChildTwo extends Child{
     void testIt(){
         System.out.println("Variable from parent & child class" + variable);
     }
+
+    Child child = new Child();
+    String newVariable = child.variable;
 }
