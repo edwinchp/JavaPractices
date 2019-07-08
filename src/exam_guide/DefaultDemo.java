@@ -20,7 +20,7 @@ class DefaultDemo {
         FinalClass fC = new FinalClass();
         fC.setIntVar(4);
         System.out.println(fC.getIntVar());
-        //System.out.println(pubVar); //variable from FinalClass
+        //System.out.println(pubVar); //protectedString from FinalClass
 
 
         /*AbstractClass abstClass = new AbstractClass() {

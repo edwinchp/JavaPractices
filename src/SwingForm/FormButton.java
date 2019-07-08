@@ -12,7 +12,7 @@ public class FormButton extends JFrame implements ActionListener {
         //position in the form
         close.setBounds(300,250,100,30);
         add(close);
-        //waiting the event to close variable
+        //waiting the event to close protectedString
         close.addActionListener(this);
     }
     //capturing the event

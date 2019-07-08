@@ -5,8 +5,8 @@ package exam_guide.a2_protected_default;
     from superclass
  */
 
-public class Child extends Parent{
+public class Child extends A1_Parent {
      void test(){
-        System.out.println("Variable from parent class" + variable); //variable is protected
+        System.out.println("Variable from parent class" + protectedString); //protectedString is protected
     }
 }
