@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9d008f0-6835-4ebd-a4e9-e610b5b7802b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/ExternalPractices/BRReadLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/ExternalPractices/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/JavaAFondoBook/Fecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/JavaAFondoBook/TestFecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/NullToString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/SortHashMapByKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/SwingForm/Form.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/SwingForm/FormButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/SwingForm/FormThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/SwingForm/FormTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/clases/Pokemon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/clases/PruebaClase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/DefaultClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/DefaultDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a1_main_access_modifiers/AbstractClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a1_main_access_modifiers/FinalClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a2_protected_default/A1_Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a2_protected_default/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a2_protected_default/ChildTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a3_protected_default/Cousin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/exam_guide/a3_protected_default/CousinTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/practices_classes/Futbolista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/practices_classes/main_class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/the_complete_reference/a1_super/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaPractices/the_complete_reference/a1_super/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_guide/a4_interfaces/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam_guide/a4_interfaces/Bounceable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gZTql11L4S49NvkI9Mi8s65vPA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SortHashMapByKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortHashMapByKey" />
+      <module name="JavaPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortHashMapByKey" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d008f0-6835-4ebd-a4e9-e610b5b7802b" name="Default Changelist" comment="" />
+      <created>1598321309589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598321309589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="14" width="1024" height="747" key="#Project_Structure" timestamp="1598321330227">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="166" y="14" width="1024" height="747" key="#Project_Structure/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598321330227" />
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1598321620860">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598321620859" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center" timestamp="1598321620859">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.center/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598321620859" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left" timestamp="1598321620859">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.left/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598321620859" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right" timestamp="1598321620859">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="181" key="GridCell.Tab.0.right/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598321620859" />
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1598322579796">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.28.1366.740@0.28.1366.740" timestamp="1598322579796" />
+  </component>
+</project>
